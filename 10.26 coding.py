@@ -33,4 +33,4 @@ print(ex5)
 # example1 = 'Because it is an exam'
 # ex6 = example1[1]
 # print(ex6)
-
+# 切片中包含头但是不包含尾
