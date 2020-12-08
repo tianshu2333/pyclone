@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 # import numpy as np
-# # data 読み込み
+# data 読み込み
 # import pandas as pd
 # f = pd.read_csv('C:/Users/lhy12/Desktop/sample/Data/iris.csv', header=None)
 # vlist = np.array(f)
